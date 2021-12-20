@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://images.unsplash.com/photo-1559065188-2537766d864b");
+    url("https://images.unsplash.com/photo-1559065188-2537766d864b?w=1000&auto=format&auto=compress");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://images.unsplash.com/photo-1559065188-2537766d864b") center center fixed;
+    url("https://images.unsplash.com/photo-1559065188-2537766d864b?w=1000&auto=format&auto=compress") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("https://images.unsplash.com/photo-1559065188-2537766d864b") !important;
+      url("https://images.unsplash.com/photo-1559065188-2537766d864b?w=1000&auto=format&auto=compress") !important;
   }
 }
